@@ -11,7 +11,7 @@ Bielski, Bashiri
 |20.9| 0.0.2    | Projektdokumentation überarbeitet, Unterprogramme aufgeteilt |
 |18.10| 0.0.4  |Arbeit an Teilprogrammen gestartet|
 |25.10| 0.0.5  |Arbiet an Teilprogrammen beendet|
-|1.11| 1.0.0  |Programm fertig, tests|
+|1.11| 1.0.0  |Programm teilweise fertig|
 |8.11| 1.0.0   |Portfolio|
 
 ## 1 Informieren
@@ -68,7 +68,6 @@ Unser Programm wird ein Geographie Quiz bei welchem man Hauptstädte, Flaggen, s
 | 11 | 8.11 | Kamil | Flaggenquiz fertig | 120min |
 | 12 | 8.11 | Shahir | Hauptstädte fertig | 120min |
 | 13 | 8.11 | Kamil | Kontinente fertig | 120min |
-| 14 |8.11 | Kamil | Vortrag | 120min |
 | 15 | 8.11 | Kamil | Programm feinschliff | 45min |
 | 16 | 8.11 | Shahir | Programm testen | 45min |
 | 17 | 8.11 | Beide | Portfolio | 180min |
@@ -80,20 +79,15 @@ Wir haben und dazu entschieden mehere verschiedene Rätsel zu machen antstatt ei
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |8.11|Alle|45min|120min|
-| 2.A  |8.11|Shahir|30min|20min|
-| 3.A  |8.11|Shahir|30min|20min|
-| 4.A  |8.11|Kamil|30min|20min|
-| 5.A  |8.11|Shahir|120min|180min|
-| 6.A  |8.11|Shahir|120min|180min|
-| 7.A  |8.11|Kamil|120min|180min|
-| 8.A  |8.11|Shahir|45min|----|
-| 9.A  |8.11|Shahir|45min|70min|
-| 10.A  |8.11|Kamil|45min|----|
-| 11.A  |8.11|Kamil|120min|----|
+| 1.A  |13.9|Alle|45min|120min|
+| 2.A  |13.9|Shahir|30min|20min|
+| 3.A  |13.9|Shahir|30min|20min|
+| 4.A  |18.10|Kamil|30min|20min|
+| 5.A  |18.10|Shahir|120min|180min|
+| 6.A  |18.10|Shahir|120min|180min|
+| 7.A  |18.10|Kamil|120min|180min|
+| 9.A  |25.10|Shahir|45min|70min|
 | 12.A  |8.11|Shahir|120min|100min|
-| 13.A  |8.11|Kamil|120min|----|
-| 14.A  |8.11|Kamil|120min|120min|
 | 15.A  |8.11|Kamil|45min|45min|
 | 16.A  |8.11|Shahir|45min|40min|
 | 17.A  |8.11|Alle|180min|150min|
@@ -105,15 +99,13 @@ Wir haben und dazu entschieden mehere verschiedene Rätsel zu machen antstatt ei
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |22.12| Negativ|Shahir|
-| 2.1  |22.12|Negativ|Shahir|
-| 3.1  |22.12|Negativ|Shahir|
-| 4.1  |22.12|Negativ|Shahir|
-| 5.1  |22.12|Positiv|Shahir|
-| 6.1  |22.12|Negativ|Shahir|
-| 7.1  |22.12|Negativ|Shahir|
-| 8.1  |22.12|Positiv|Shahir|
+| 1.1  |8.11| Negativ|Shahir|
+| 2.1  |8.11|Negativ|Shahir|
+| 3.1  |8.11|Negativ|Shahir|
+| 4.1  |8.11|Negativ|Shahir|
+| 5.1  |8.11|Positiv|Shahir|
+| 6.1  |8.11|Negativ|Shahir|
+| 7.1  |8.11|Negativ|Shahir|
+| 8.1  |8.11|Positiv|Shahir|
 
-
-Nach einen ein bisschen holpriger Start in das Projekt als wir uns dann noch übernommen haben was die Arbeit angeht, würde ich sagen ist es trotzdem eub gutes Endergebnis obwohl wir nicht alles geschafft haben was geplant war. Das nächste mal müssen wir definitiv schauen das wir die Komunikation besser hinbekommen damit alles strukturierter ist.
 
